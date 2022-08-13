@@ -11,35 +11,54 @@ We chose four billionaires who invest in the stock market, namely Warren Buffett
 
 #### Warren Buffett
 
+</br>
 Apple
+</br>
 Bank of America
+</br>
 Coca-Cola
+</br>
 Chevron
+</br>
 American Express
 
 #### Cathie Wood
 
+</br>
 Tesla Inc.
+</br>
 Zoom Video Communication - Class A
+</br>
 Teledoc Health Inc.
+</br>
 Roku
 
 #### Bill Ackmann
 
+</br>
 Lowe's
+</br>
 Chipotle
+</br>
 Restaurant Brands international
+</br>
 Hilton worldwide Holdings Inc.
+</br>
 Howard Hughes Corporation
 
 #### Ray Dalio
 
+</br>
 SPY
+</br>
 Procter & Gamble
+</br>
 Vanguard VWO
+</br>
 Pepsi Co
+</br>
 Johnson & Johnson
-
+</br>
 We chose to reject Roku because it did not have 5 years of data to analyze and Vanguard VWO because it is an emerging markets ETF and we are focused on stocks, but we did include SPY.
 
 Firstly, we will complete the quantitative analysis, which involves analysis of several components: performance, volatility, risk, risk-return profile, and portfolio diversification and we will go through each one individually.
@@ -63,7 +82,7 @@ In the future, we will use machine learning to refine our model, make a strong p
 
 ## Technologies
 
-This was developed with Anaconda, which includes Pandas, Matplotlib and Jupyter_Lab and the in additon Holoviews and Vectorbt. We created it in a development environment running Python 3.7.13.
+This was developed with Anaconda, which includes Pandas, Matplotlib and Jupyter_Lab and in addition Holoviews and Vectorbt. We created it in a development environment running Python 3.7.13.
 
 ---
 
