@@ -64,10 +64,7 @@ We chose to reject Roku because it did not have 5 years of data to analyze and V
 Firstly, we will complete the quantitative analysis, which involves analysis of several components: performance, volatility, risk, risk-return profile, and portfolio diversification and we will go through each one individually.
 
 Secondly, we will go through the Monte Carlo simulation and will analyze their future performance based on past practices, through a large set of computational algorithms designed to predict an outcome based on the examination of random variables and their probability distributions.
-
-Monte Carlo simulation is a large set of computational algorithms designed to predict an outcome based on the examination of random variables and their probability distributions.
-
-Monte Carlo is used to predict future prices by noting standard deviation of daily returns and using them to predict next day prices. The model may be projected for a larger amount of time and an assessment of probability of annual returns for a certain portfolio may be inferred. We created a sequential search algorithm which includes the following:
+Monte Carlo simulation is a large set of computational algorithms designed to predict an outcome based on the examination of random variables and their probability distributions. Monte Carlo is used to predict future prices by noting standard deviation of daily returns and using them to predict next day prices. The model may be projected for a larger amount of time and an assessment of probability of annual returns for a certain portfolio may be inferred. We created a sequential search algorithm which includes the following:
 
 The list is every possible iteration of portfolio weights.
 It loops over list and calculates Monte Carlo for each set of weights.
@@ -76,7 +73,7 @@ Returns highest mean cumulative return weights and results upon termination.
 
 Thirdly, we will use Vectorbt, a backtesting library that allows us to quickly test a variety of trading strategies and retest our simulations. We will analyze trading the moving average and see if they provide higher returns. We will visualize the return windows with a heat map. We will analyze the buy and sell graphs and look at their cumulative returns. We will analyze 2000 weight combinations and find the best weight group. We will look at the returns and stats on an annual basis. Then, we will examine what will happen if we rebalance our portfolio monthly. We will finally run the Monte Carlo simulation once again.
 
-In the future, we will use machine learning to refine our model, make a strong portfolio, reduce computational load and increase efficiency. We will analyze whether more innovative analysis will change our model and reflect on how we can use forecasting to make a better model.
+In the future, we will use machine learning to refine our model, make a stronger portfolio, reduce computational load and increase efficiency. We will analyze whether more innovative analysis will change our model and reflect on how we can use forecasting to make a better model.
 
 ---
 
