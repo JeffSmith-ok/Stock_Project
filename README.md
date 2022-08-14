@@ -2,10 +2,10 @@
 
 In this Challenge, we assume the role of analysts and traders for a trading firm.
 
-There are 3 notebooks to present our project, which include the following: </br>
-a) Quantitative Analysis </br>
-b) Monte Carlo Simulation </br>
-c) Vector bt trading strategies
+We presented our project in the following 3 notebooks: </br>
+a) Quantitative Analysis --- Quantitative_Analysis.ipynb</br>
+b) Monte Carlo Simulation --- MC_Simulation.ipynb </br>
+c) Vectorbt trading strategies --- Nasdaq_Selected_MC/ipynb
 
 We chose four billionaires who invest in the stock market, namely Warren Buffett, Ray Dalio, Cathie Wood and Bill Ackman, and we took their four top stocks, as follows:
 
@@ -61,11 +61,19 @@ In the future, we will use machine learning to refine our model, make a stronger
 
 ## Technologies
 
-This was developed with Anaconda, which includes Pandas, Matplotlib and Jupyter_Lab and in addition Holoviews and Vectorbt. We created it in a development environment running Python 3.7.13.
+This was developed with Anaconda, which includes Pandas, Matplotlib and Jupyter_Lab and in addition Holoviews and Vectorbt. We use Alpaca Api to obtain the data. We created it in a development environment running Python 3.7.13.
 
 ---
 
 ## Installation Guide
+
+We use the Alpaca Api Key. In order to obtain the API, go to the Alpaca website in the image below sign up and when you login, then go to the Paper Trading link in the image and click the number below it. It will take you to the API Keys.
+
+You can create a .env file like the image below and put your api key and replace the XXXX with your respective key information.
+
+## ![Screenshot of the API login key information](images/API_Login.jpeg) </br>
+
+## ![Screenshot of the .env file ](images/env_file.jpeg) </br>
 
 To install the programs to run the program, you have to do the following or you can open the ipynb files in github and attempt to read the file there. There are some issues with Holoviews and you may not be able to view them there.
 
@@ -86,10 +94,6 @@ In the terminal type 'Jupyter Lab'
 The following images present important parts of three notebooks.
 
 ## ![Screenshot of the 60 Day Rolling Beta](images/60_Day_Rolling_Beta.jpeg) </br>
-
-## ![Screenshot of Abstracting_Monte Carlo](images/Abstracting_MC.jpeg) </br>
-
-## ![Screenshot of the Vectorbt Heat Map](images/Heat_Map_Vectorbt.jpeg) </br>
 
 ---
 
