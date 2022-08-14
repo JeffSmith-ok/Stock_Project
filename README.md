@@ -20,6 +20,7 @@ Coca-Cola
 Chevron
 </br>
 American Express
+</br>
 
 **Cathie Wood**
 </br>
@@ -30,6 +31,7 @@ Zoom Video Communication - Class A
 Teledoc Health Inc.
 </br>
 Roku
+</br>
 
 **Bill Ackmann**
 </br>
@@ -42,6 +44,7 @@ Restaurant Brands international
 Hilton worldwide Holdings Inc.
 </br>
 Howard Hughes Corporation
+</br>
 
 **Ray Dalio**
 </br>
@@ -55,6 +58,7 @@ Pepsi Co
 </br>
 Johnson & Johnson
 </br>
+
 We chose to reject Roku because it did not have 5 years of data to analyze and Vanguard VWO because it is an emerging markets ETF and we are focused on stocks, but we did include SPY.
 
 Firstly, we will complete the quantitative analysis, which involves analysis of several components: performance, volatility, risk, risk-return profile, and portfolio diversification and we will go through each one individually.
