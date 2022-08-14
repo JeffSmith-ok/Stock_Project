@@ -93,7 +93,7 @@ In the terminal type 'Jupyter Lab'
 
 The following images present the first notebook read in Jupyter Lab.
 
-## ![Screenshot of the 60 Day Rolling Beta](images/60_Day_Rolling_Beta.jpeg) </br>
+## ![Screenshot of the 60 Day Rolling Beta](images/cumulative_returns.jpeg) </br>
 
 ---
 
