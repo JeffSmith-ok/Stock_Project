@@ -2,10 +2,10 @@
 
 In this Challenge, we assume the role of analysts and traders for a trading firm.
 
-We presented our project in the following 3 notebooks: </br>
+We present our project in the following 3 notebooks: </br>
 a) Quantitative Analysis --- Quantitative_Analysis.ipynb</br>
 b) Monte Carlo Simulation --- MC_Simulation.ipynb </br>
-c) Vectorbt trading strategies --- Nasdaq_Selected_MC/ipynb
+c) Vectorbt trading strategies --- Vectorbt.ipynb
 
 We chose four billionaires who invest in the stock market, namely Warren Buffett, Ray Dalio, Cathie Wood and Bill Ackman, and we took their four top stocks, as follows:
 
@@ -78,7 +78,7 @@ You can create a .env file like the image below and put your api key and replace
 To install the programs to run the program, you have to do the following or you can open the ipynb files in github and attempt to read the file there. There are some issues with Holoviews and you may not be able to view them there.
 
 Install Anaconda and Python. </br>
-pip install -U vectorbt
+pip install vectorbt==0.20.1
 Git clone the repo and run it, pursuant to the following clone address
 
 git clone https://github.com/JeffSmith-ok/Stock_Project
@@ -121,7 +121,7 @@ Personal email: jmstranslate@gmail.com </br>
 
 MIT License
 
-Copyright (c) 2022 Jeffrey M. Smith
+Copyright (c) 2022 Russell Moore, Mike Cutno, Jeffrey M. Smith
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
