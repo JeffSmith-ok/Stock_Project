@@ -100,7 +100,7 @@ This is the first group project.
 Our contact information is:
 
 Name: Russell Moore </br>
-https://www.linkedin.com/in/russell-david-moore/
+https://www.linkedin.com/in/russell-david-moore/ </br>
 Personal email: rdm5181@gmail.com </br>
 
 Name: Mike Cutno </br>
