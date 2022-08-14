@@ -18,41 +18,28 @@ We chose four billionaires who invest in the stock market, namely Warren Buffett
 - American Express
 
 **Cathie Wood**
-</br>
-Tesla Inc.
-</br>
-Zoom Video Communication - Class A
-</br>
-Teledoc Health Inc.
-</br>
-Roku
-</br>
+
+- Tesla Inc.
+- Zoom Video Communication - Class A
+- Teledoc Health Inc.
+- Roku
 
 **Bill Ackmann**
-</br>
-Lowe's
-</br>
-Chipotle
-</br>
-Restaurant Brands international
-</br>
-Hilton worldwide Holdings Inc.
-</br>
-Howard Hughes Corporation
-</br>
+
+- Lowe's
+- Chipotle
+- Restaurant Brands international
+- Hilton worldwide Holdings Inc.
+- Howard Hughes Corporation
 
 **Ray Dalio**
-</br>
-SPY
-</br>
-Procter & Gamble
-</br>
-Vanguard VWO
-</br>
-Pepsi Co
-</br>
-Johnson & Johnson
-</br>
+
+- SPY
+- Procter & Gamble
+- Vanguard VWO
+- Pepsi Co
+- Johnson & Johnson
+  </br>
 
 We chose to reject Roku because it did not have 5 years of data to analyze and Vanguard VWO because it is an emerging markets ETF and we are focused on stocks, but we did include SPY.
 
