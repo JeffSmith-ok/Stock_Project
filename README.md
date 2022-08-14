@@ -10,6 +10,7 @@ c) Vector bt trading strategies
 We chose four billionaires who invest in the stock market, namely Warren Buffett, Ray Dalio, Cathie Wood and Bill Ackman, and we took their four top stocks, as follows:
 
 **Warren Buffett**
+</br>
 Apple
 </br>
 Bank of America
@@ -21,6 +22,7 @@ Chevron
 American Express
 
 **Cathie Wood**
+</br>
 Tesla Inc.
 </br>
 Zoom Video Communication - Class A
@@ -30,6 +32,7 @@ Teledoc Health Inc.
 Roku
 
 **Bill Ackmann**
+</br>
 Lowe's
 </br>
 Chipotle
@@ -41,6 +44,7 @@ Hilton worldwide Holdings Inc.
 Howard Hughes Corporation
 
 **Ray Dalio**
+</br>
 SPY
 </br>
 Procter & Gamble
