@@ -81,6 +81,12 @@ Install Anaconda and Python. </br>
 pip install vectorbt==0.20.1
 Git clone the repo and run it, pursuant to the following clone address
 
+Install Vector BT: pip install vectorbt
+
+Install Numba: pip install numba
+
+Install Seaborn: pip install seaborn
+
 git clone https://github.com/JeffSmith-ok/Stock_Project
 
 cd Stock_Project
